@@ -20,7 +20,9 @@ public class Main
        /* PasswordRull obj5 = new PasswordRull();
         System.out.println(obj5);
 */
-        shouldHaveAtleastOneUpperCae cse = new shouldHaveAtleastOneUpperCae();
-        cse.check();
+        /*shouldHaveAtleastOneUpperCae cse = new shouldHaveAtleastOneUpperCae();
+        cse.check();*/
+        souldHaveAtleastOneNumericNumberINPassword pass = new souldHaveAtleastOneNumericNumberINPassword();
+        pass.Check();
     }
 }
