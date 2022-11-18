@@ -5,26 +5,26 @@ public class Main
     public static void main(String[] args)
     {
         System.out.println("User Registration");
-       /* firstName obj = new firstName();
-        System.out.println(obj);*/
+        firstName obj = new firstName();
+        System.out.println(obj);
 
-        /*lastName obj1 = new lastName();
-        System.out.println(obj1);*/
+        lastName obj1 = new lastName();
+        System.out.println(obj1);
 
-      /*  email_ID obj3 = new email_ID();
-        System.out.println(obj3);*/
+        email_ID obj3 = new email_ID();
+        System.out.println(obj3);
 
-      /*  mobileNumber obj4 = new mobileNumber();
-        System.out.println(obj4);*/
+        mobileNumber obj4 = new mobileNumber();
+        System.out.println(obj4);
 
-       /* PasswordRull obj5 = new PasswordRull();
+        PasswordRull obj5 = new PasswordRull();
         System.out.println(obj5);
 */
-        /*shouldHaveAtleastOneUpperCae cse = new shouldHaveAtleastOneUpperCae();
-        cse.check();*/
+        shouldHaveAtleastOneUpperCae cse = new shouldHaveAtleastOneUpperCae();
+        cse.check();
 
-       /* souldHaveAtleastOneNumericNumberINPassword pass = new souldHaveAtleastOneNumericNumberINPassword();
-        pass.Check()*/;
+       souldHaveAtleastOneNumericNumberINPassword pass = new souldHaveAtleastOneNumericNumberINPassword();
+        pass.Check();
 
         shouldHaveExactlyOneSpecialCharector pass1 =new shouldHaveExactlyOneSpecialCharector();
         pass1.check();
