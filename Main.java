@@ -17,9 +17,10 @@ public class Main
       /*  mobileNumber obj4 = new mobileNumber();
         System.out.println(obj4);*/
 
-        PasswordRull obj5 = new PasswordRull();
+       /* PasswordRull obj5 = new PasswordRull();
         System.out.println(obj5);
-
-
+*/
+        shouldHaveAtleastOneUpperCae cse = new shouldHaveAtleastOneUpperCae();
+        cse.check();
     }
 }
