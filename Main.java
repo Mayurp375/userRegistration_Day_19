@@ -22,7 +22,11 @@ public class Main
 */
         /*shouldHaveAtleastOneUpperCae cse = new shouldHaveAtleastOneUpperCae();
         cse.check();*/
-        souldHaveAtleastOneNumericNumberINPassword pass = new souldHaveAtleastOneNumericNumberINPassword();
-        pass.Check();
+
+       /* souldHaveAtleastOneNumericNumberINPassword pass = new souldHaveAtleastOneNumericNumberINPassword();
+        pass.Check()*/;
+
+        shouldHaveExactlyOneSpecialCharector pass1 =new shouldHaveExactlyOneSpecialCharector();
+        pass1.check();
     }
 }
