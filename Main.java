@@ -19,5 +19,7 @@ public class Main
 
         PasswordRull obj5 = new PasswordRull();
         System.out.println(obj5);
+
+
     }
 }
